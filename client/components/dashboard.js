@@ -8,7 +8,7 @@ const Dashboard = () => {
     <div>
       <div id="title">Dashboard</div>
       <Link to="/dashboard/main"> Go to Main</Link>
-      <Link to="/dashboard/profile/7e61eef1-dc58-44ce-9901-3871cce40541"> Go to Profile</Link>
+      <Link to="/dashboard/profile/b884d575-2fc5-4bf1-ae02-04d600d43a12"> Go to Profile</Link>
     </div>
   )
 }
